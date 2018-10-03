@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+.story-content .sp-2 {color: #e39f24 !important;}
+.genric-btn.primary {background: #e39f24 !important;}
+ a.genric-btn:hover {color: #e39f24 !important; background: #fff !important; border: 1px solid #e39f24 !important;}
+
+#myVideo {bottom: 0;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;}
+
+.video-area .overlay-bg {background: #e39f240d !important; z-index: 100 !important;}
+
+.video-area {min-height: 480px !important;}
