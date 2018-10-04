@@ -14,3 +14,20 @@
 .video-area .overlay-bg {background: #e39f240d !important; z-index: 100 !important;}
 
 .carousel-inner {max-height: 599px;}
+
+@media (min-width: 976px){
+.video-area {height: 480px;}
+}
+
+@media (max-width: 520px){
+.video-area {padding-bottom: 0px !important;}
+}
+
+.videotext1 {background-color: #e39f24c2 !important;padding: 10px 20px !important;position: absolute !important;color: #fff !important;border-radius: 5px !important;top: 10%!important;left: 0!important;font-size: 158%!important;}
+
+.videotext2 {background-color: #e39f24c2 !important;padding: 4px 20px !important;position: absolute !important;color: #fff !important;border-radius: 5px !important;top: 20% !important;font-size: 129% !important;left: 0!important;}
+
+@media (max-width: 969px){
+.videotext1 {font-size: 120% !important; padding: 4px 20px !important; top: 8%!important; }
+	.videotext2 {font-size: 93% !important;}	
+}
