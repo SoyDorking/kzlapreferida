@@ -32,8 +32,16 @@
 	.videotext2 {font-size: 93% !important;}	
 }
 
-.feature-area .overlay-bg {background: #856404e3 !important;}
+.overlay-bg {background: #856404e3 !important;}
 
 .feature-area .lnr {color:#856404 !important;}
 
 .feature-area .icon:hover {background: #856404cc !important;}
+
+.common-input, .common-textarea {border: 1px solid #f9f9ff !important;}
+
+.primary-btn.white-bg span {color: #e39f24 !important;}
+
+.primary-btn.white-bg:hover span {color: #fff !important;}
+
+.primary-btn.white-bg:hover {background: #e39f24 !important;}
