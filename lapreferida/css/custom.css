@@ -33,3 +33,7 @@
 }
 
 .feature-area .overlay-bg {background: #856404e3 !important;}
+
+.feature-area .lnr {color:#856404 !important;}
+
+.feature-area .icon:hover {background: #856404cc !important;}
