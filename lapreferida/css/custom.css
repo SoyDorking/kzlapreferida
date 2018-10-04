@@ -45,3 +45,5 @@
 .primary-btn.white-bg:hover span {color: #fff !important;}
 
 .primary-btn.white-bg:hover {background: #e39f24 !important;}
+
+.feature-area, .contact-area {background: url(../img/mad-bg.jpg) no-repeat center center/cover !important;}
