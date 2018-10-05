@@ -47,3 +47,11 @@
 .primary-btn.white-bg:hover {background: #e39f24 !important;}
 
 .feature-area, .contact-area {background: url(../img/mad-bg.jpg) no-repeat center center/cover !important;}
+
+@media (max-width: 600px){
+	.bannerbig {display:none;}
+}
+
+@media (min-width: 600px){
+	.bannersmall {display:none;}
+}
