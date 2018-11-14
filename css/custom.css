@@ -55,3 +55,5 @@
 @media (min-width: 600px){
 	.bannersmall {display:none;}
 }
+
+.feature-area .icon {background: #85640463 !important; padding: 0 !important;}
