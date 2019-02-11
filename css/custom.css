@@ -12,6 +12,13 @@ nav {background: #e39f24 !important;}
 }
 ::selection {background-color: #e39f24 !important; color: #fff !important; }
 
+.section-gap2 {padding: 117px 0px 10px !important;}
+
+@media (max-width: 1199px){
+.banner-left {
+    margin-top: 0px !important;
+}
+
 .footer-bottom .footer-text a {color: #e39f24 !important;}
 
 .footer-bottom .footer-text i {color: #e39f24 !important;}
