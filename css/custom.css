@@ -7,6 +7,14 @@
 figure.effect-milo p {width: 70% !important; font-size: 11px !important; line-height: 13px !important;}
 }
 
+::selection {background-color: #e39f24 !important; color: #fff !important; }
+
+.footer-bottom .footer-text a {color: #e39f24 !important;}
+
+.footer-bottom .footer-text i {color: #e39f24 !important;}
+
+.section-gap {padding: 10px 0px !important;}
+
 .story-content .sp-2 {color: #e39f24 !important;}
 .genric-btn.primary {background: #e39f24 !important;}
  a.genric-btn:hover {color: #e39f24 !important; background: #fff !important; border: 1px solid #e39f24 !important;}
@@ -16,6 +24,8 @@ figure.effect-milo p {width: 70% !important; font-size: 11px !important; line-he
     position: absolute;
     top: 0;
     width: 100%;}
+
+.footer-bottom .footer-text {text-align: center !important; margin: 0 auto !important; margin-bottom: 20px !important;}    
 
 .about-generic-area .border-top-generic {padding: 15px 15px !important;}
 
