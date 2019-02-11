@@ -1,11 +1,11 @@
 @charset "utf-8";
 /* CSS Document */
-
-@media (min-width: 1060px)
-.col-lg-6 {
-    flex: 0 0 50%;
-    max-width: 50%;
-    }
+@media (max-width: 1010px){
+.grid figure h2 {font-size: 15px !important;}
+}
+@media (max-width: 450px){
+figure.effect-milo p {width: 70% !important; font-size: 11px !important; line-height: 13px !important;}
+}
 
 .story-content .sp-2 {color: #e39f24 !important;}
 .genric-btn.primary {background: #e39f24 !important;}
@@ -16,6 +16,10 @@
     position: absolute;
     top: 0;
     width: 100%;}
+
+.about-generic-area .border-top-generic {padding: 15px 15px !important;}
+
+figure.effect-milo p {font-weight: 600;}
 
 .video-area .overlay-bg {background: #e39f240d !important; z-index: 100 !important;}
 
