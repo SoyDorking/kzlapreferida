@@ -7,6 +7,9 @@
 figure.effect-milo p {width: 70% !important; font-size: 11px !important; line-height: 13px !important;}
 }
 
+@media (max-width: 767px) {
+nav {background: #e39f24 !important;}
+}
 ::selection {background-color: #e39f24 !important; color: #fff !important; }
 
 .footer-bottom .footer-text a {color: #e39f24 !important;}
