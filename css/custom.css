@@ -91,3 +91,9 @@ figure.effect-milo p {font-weight: 600;}
 .feature-area .icon {background: #85640463 !important; padding: 0 !important;}
 
 a:hover {color:#e39f24 !important;}
+
+@media (min-width: 1023px){
+    .texto-banner-home {
+        padding-right: 40px;
+        text-align: justify;}
+    }
