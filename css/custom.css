@@ -94,6 +94,6 @@ a:hover {color:#e39f24 !important;}
 
 @media (min-width: 1023px){
     .texto-banner-home {
-        padding-right: 40px;
-        text-align: justify;}
+        padding-right: 40px !important;
+        text-align: justify !important;}
     }
